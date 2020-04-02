@@ -5,3 +5,6 @@ USB dongle to host the EBYTE C1352P Zigbee module. Main features:
 - CJTAG interface through 6 pin header 
  
 The 6 pin connector matches the adapter board which allows easy connection to the TI CC-DEVPACK-DEBUG board.
+
+
+WARNING: this is work in progress. Designs still need to be validaded on first prototypes. 
